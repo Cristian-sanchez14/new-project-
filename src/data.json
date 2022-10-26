@@ -1,0 +1,25 @@
+{
+  "people": [
+    {
+      "name": {
+        "first": "cristian",
+        "middle": "daniel",
+        "last": "sanchez"
+      },
+      "city": "London",
+      "age": "22",
+      "hungry": true,
+      "pets": [
+        {
+          "name": "rosie",
+          "animal": "dog",
+          "hungry": true,
+          "age": 7
+        }
+      ],
+      "partner": "idk"
+    },
+    {},
+    {}
+  ]
+}
