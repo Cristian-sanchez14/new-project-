@@ -1,25 +1,456 @@
 {
-  "people": [
+  "teams": [
     {
       "name": {
-        "first": "cristian",
-        "middle": "daniel",
-        "last": "sanchez"
+        "logo": "https://www.arsenal.com/themes/custom/arsenal_main/images/arsenal-crest.png",
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
       },
-      "city": "London",
-      "age": "22",
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
       "hungry": true,
-      "pets": [
+      "league": "Premier League",
+      "titles": [
         {
-          "name": "rosie",
-          "animal": "dog",
-          "hungry": true,
-          "age": 7
+          "premier": "13"
         }
-      ],
-      "partner": "idk"
+      ]
     },
-    {},
-    {}
+    {
+      "name": {
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1920px-Brentford_FC_crest.svg.png",
+        "club": "Aston Villa Football Club",
+        "nickname": "The Villian",
+        "shotname": "Aston Villa"
+      },
+      "manager": "Unai Emery",
+      "city": "Birmingham, England",
+      "founded": "1874; 148 years ago",
+      "stadium": "Villa Park",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "AFC Bournemouth",
+        "nickname": "The Cherries, Boscombe",
+        "shotname": "AFC Bournemouth"
+      },
+      "manager": "Gary O'Neil",
+      "city": "London, England",
+      "founded": "1899; 123 years ago (as Boscombe)",
+      "stadium": "Dean Court",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Brentford Football Club",
+        "nickname": "The Bees",
+        "shotname": "Brentford"
+      },
+      "manager": "Thomas Frank",
+      "city": "London, England",
+      "founded": "10 October 1889; 133 years ago",
+      "stadium": "Gtech Community Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Arsenal Football Club",
+        "nickname": "The Gunners",
+        "shotname": "Arsenal"
+      },
+      "manager": "Mikel Arteta",
+      "city": "London, England",
+      "founded": "October 1886; 136 years ago as Dial Square",
+      "stadium": "Emirates Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "13"
+        }
+      ]
+    }
   ]
 }
