@@ -4,6 +4,7 @@ import Teams from './components/Teams'
 import Slider from 'react-slick'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
+import 'semantic-ui-css/semantic.min.css'
 
 const App = () => {
   const settings = {
@@ -52,6 +53,7 @@ const App = () => {
             manager={team.manager}
             logo={team.name.logo}
             overview={team.overview}
+            link={team.link}
           />
         ))}
       </Slider>

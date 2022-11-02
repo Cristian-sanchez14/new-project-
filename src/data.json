@@ -8,6 +8,7 @@
         "shotname": "Arsenal"
       },
       "overview": "Arsenal Football Club, commonly referred to as Arsenal, is a professional football club based in Islington, London, England. Arsenal plays in the Premier League, the top flight of English football.",
+      "link": "",
       "manager": "Mikel Arteta",
       "city": "London, England",
       "founded": "October 1886; 136 years ago as Dial Square",
@@ -28,6 +29,7 @@
         "shotname": "Aston Villa"
       },
       "overview": "Aston Villa Football Club is a professional football club based in Aston, Birmingham, England. The club competes in the Premier League, the top tier of the English football league system. Founded in 1874, they have played at their home ground, Villa Park, since 1897",
+      "link": "",
       "manager": "Unai Emery",
       "city": "Birmingham, England",
       "founded": "1874; 148 years ago",
@@ -48,6 +50,7 @@
         "shotname": "AFC Bournemouth"
       },
       "overview": "AFC Bournemouth is a professional association football club based in Kings Park, Boscombe, a suburb of Bournemouth, Dorset, England. The club competes in the Premier League, the highest division of English club football. Formed in 1899 as Boscombe, the club adopted their current name in",
+      "link": "",
       "manager": "Gary O'Neil",
       "city": "London, England",
       "founded": "1899; 123 years ago (as Boscombe)",
@@ -68,6 +71,7 @@
         "shotname": "Brentford"
       },
       "overview": "Brentford Football Club is a professional football club based in Brentford, West London, England. They compete in the Premier League, the highest tier of English football, having gained promotion via the playoffs at the end of the 2020–21 Championship season.",
+      "link": "",
       "manager": "Thomas Frank",
       "city": "London, England",
       "founded": "10 October 1889; 133 years ago",
@@ -88,6 +92,7 @@
         "shotname": "Brighton"
       },
       "overview": "Brighton & Hove Albion Football Club commonly referred to simply as Brighton, is an English professional football club based in the city of Brighton and Hove. They compete in the Premier League, the top tier of the English football league system. ",
+      "link": "",
       "manager": "Roberto De Zerbi",
       "city": "Falmer, Brighton, East Sussex, England",
       "founded": "24 June 1901; 121 years ago",
@@ -108,6 +113,7 @@
         "shotname": "Chelsea"
       },
       "overview": "Chelsea Football Club is an English professional football club based in Fulham, West London. Founded in 1905, they play their home games at Stamford Bridge.[6] The club competes in the Premier League, the top division of English football.",
+      "link": "",
       "manager": "Graham Potter",
       "city": "West London, England",
       "founded": "10 March 1905; 117 years ago[",
@@ -128,6 +134,7 @@
         "shotname": "Arsenal"
       },
       "overview": "Crystal Palace Football Club is a professional football club based in Selhurst in the Borough of Croydon, South London, England, who compete in the Premier League, the highest level of English football.",
+      "link": "",
       "manager": "Patrick Vieira",
       "city": "Selhurst, London, England",
       "founded": "10 September 1905; 117 years ago[",
@@ -148,6 +155,7 @@
         "shotname": "Everton"
       },
       "overview": "Everton Football Club, is an English professional association football club based in Liverpool that competes in the Premier League, the top tier of English football. ",
+      "link": "",
       "manager": "Frank Lampard",
       "city": "liverpool, England",
       "founded": "October 1886; 136 years ago as Dial Square",
@@ -168,6 +176,7 @@
         "shotname": "Fulham"
       },
       "overview": "Fulham Football Club is an English professional football club based in Fulham, London, which compete in the Premier League. They have played home games at Craven Cottage since 1896, other than a two-year period spent at Loftus Road whilst Craven Cottage underwent redevelopments that were completed in 2004.",
+      "link": "",
       "manager": "Marco Silva",
       "city": "West London, England",
       "founded": "1879; 143 years ago (as St Andrews Cricket & Football Club)",
@@ -188,6 +197,7 @@
         "shotname": "Leeds"
       },
       "overview": "Leeds United Football Club is a professional football club based in Leeds, West Yorkshire in England. The club competes in the Premier League, the highest level of England's football league system, and plays its home matches at Elland Road Stadium.",
+      "link": "",
       "manager": "Jesse Marsch",
       "city": "Elland Road, Beeston, Leeds, England",
       "founded": "17 October 1919; 103 years ago",
@@ -208,6 +218,7 @@
         "shotname": "Leicester City"
       },
       "overview": "Leicester City Football Club is an English professional football club based in Leicester in the East Midlands of England. The club competes in the Premier League, the highest level of England's football league system, and plays its home matches at King Power Stadium.",
+      "link": "",
       "manager": "Brendan Rodgers",
       "city": "Leicester, England",
       "founded": "1884; 138 years ago (as Leicester Fosse F.C.)",
@@ -228,6 +239,7 @@
         "shotname": "Liverpool"
       },
       "overview": "Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Founded in 1892, the club joined the Football League the following year and has played its home games at Anfield since its formation.",
+      "link": "",
       "manager": "Jürgen Klopp",
       "city": "London, England",
       "founded": "3 June 1892; 130 years ago",
@@ -242,21 +254,169 @@
     },
     {
       "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
+        "club": "Manchester City Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/316px-Manchester_City_FC_badge.svg.png?20180205235525",
+        "nickname": "The Citizens (Cityzens),[",
+        "shotname": "Manchester City"
       },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
+      "overview": "Manchester City Football Club are an English football club based in Manchester that competes in the Premier League, the top flight of English football. Founded in 1880 as St. Mark's (West Gorton), they became Ardwick Association Football Club in 1887 and Manchester City in 1894. ",
+      "link": "",
+      "manager": "Pep Guardiola",
+      "city": "Manchester, England",
+      "founded": "1880; 142 years ago as St. Mark's (West Gorton)",
+      "stadium": "City of Manchester Stadium",
       "hungry": true,
       "league": "Premier League",
       "titles": [
         {
-          "premier": "13"
+          "premier": "8"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Manchester United Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/800px-Manchester_United_FC_crest.svg.png",
+        "nickname": "The Red Devils",
+        "shotname": "Manchester United"
+      },
+      "overview": "Manchester United Football Club, commonly referred to as Man United (often stylised as Man Utd), or simply United, is a professional football club based in Old Trafford, Greater Manchester, England. The club competes in the Premier League, the top division in the English football league system. Nicknamed the Red Devils, it was founded as Newton Heath LYR Football Club in 1878, but changed its name to Manchester United in 1902.",
+      "link": "https://www.manutd.com/",
+      "manager": "Erik ten Hag",
+      "city": "Manchester, England",
+      "founded": "1878; 144 years ago, as Newton Heath",
+      "stadium": "Old Trafford",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "20"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Newcastle United Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1024px-Newcastle_United_Logo.svg.png",
+        "nickname": "The Magpies",
+        "shotname": "Newcastle United"
+      },
+      "overview": "Newcastle United Football Club is an English professional football club, based in Newcastle upon Tyne, that plays in the Premier League – the top flight of English football. The club was founded in 1892 by the merger of Newcastle East End and Newcastle West End. The team play their home matches at St James' Park in the centre of Newcastle.",
+      "link": "https://www.nufc.co.uk/",
+      "manager": "Eddie Howe",
+      "city": "Newcastle, England",
+      "founded": "9 December 1892; 129 years ago",
+      "stadium": "St James' Park",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "3"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Nottingham Forest Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/100px-Nottingham_Forest_F.C._logo.svg.png",
+        "nickname": "Forest",
+        "shotname": "Nottingham Forest"
+      },
+      "overview": "Nottingham Forest Football Club is an association football club based in West Bridgford, Nottinghamshire, England. The football club was founded in 1865 and have their played home games at the City Ground, on the banks of the River Trent, since 1898. Forest are one of four English clubs to have won the European Cup/UEFA Champions League more than once and one of two English clubs to have won the competition back-to-back.",
+      "link": "https://www.nottinghamforest.co.uk/",
+      "manager": "Steve Cooper",
+      "city": "West Bridgford, England",
+      "founded": "1865 (157 years ago)",
+      "stadium": "City Ground",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "1"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Southampton Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1024px-FC_Southampton.svg.png",
+        "nickname": "The Saints",
+        "shotname": "Southampton"
+      },
+      "overview": "Southampton Football Club is an English professional football club based in Southampton, Hampshire, which competes in the Premier League. Their home ground since 2001 has been St Mary's Stadium, prior to which they were based at The Dell. The club play in red and white shirts. They have been nicknamed `The Saints` due to the club's beginnings as a church football team at St Mary's Church. Southampton share a long-standing South Coast derby rivalry with Portsmouth, due in part to geographic proximity and both cities' respective maritime histories.",
+      "link": "https://www.southamptonfc.com/",
+      "manager": "Ralph Hasenhüttl",
+      "city": "Southampton, England",
+      "founded": "21 November 1885; 136 years ago",
+      "stadium": "St Mary's Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Tottenham Hotspur Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/800px-Tottenham_Hotspur.svg.png",
+        "nickname": "The Lilywhites",
+        "shotname": "Spurs"
+      },
+      "overview": "Tottenham Hotspur Football Club, commonly referred to as Tottenham or Spurs, is a professional football club based in Tottenham, London, England. It competes in the Premier League, the top flight of English football. The team has played its home matches in the 62,850-capacity Tottenham Hotspur Stadium since April 2019, replacing their former home of White Hart Lane, which had been demolished to make way for the new stadium on the same site.",
+      "link": "https://www.tottenhamhotspur.com/",
+      "manager": "Antonio Conte",
+      "city": "North London, England",
+      "founded": "5 September 1882; 140 years ago, as Hotspur F.C.",
+      "stadium": "Tottenham Hotspur Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "2"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "West Ham United Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1024px-West_Ham_United_FC_logo.svg.png",
+        "nickname": "The Irons",
+        "shotname": "West Ham"
+      },
+      "overview": "West Ham United Football Club is an English professional football club that plays its home matches in Stratford, East London. The club competes in the Premier League, the top tier of English football. The club plays at the London Stadium, having moved from their former home, the Boleyn Ground, in 2016.",
+      "link": "https://www.whufc.com/",
+      "manager": "David Moyes",
+      "city": "Queen Elizabeth Olympic Park, Stratford, England",
+      "founded": "5 July 1900; 122 years ago, as West Ham United",
+      "stadium": "London Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "0"
+        }
+      ]
+    },
+    {
+      "name": {
+        "club": "Wolverhampton Wanderers Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/1024px-Wolverhampton_Wanderers.svg.png",
+        "nickname": "Wolves, The Wanderers[",
+        "shotname": "Wolves"
+      },
+      "overview": "Wolverhampton Wanderers Football Club, commonly known as Wolves,[1] is a professional football club based in Wolverhampton, England, which compete in the Premier League. The club has played at Molineux Stadium since moving from Dudley Road in 1889.",
+      "link": "https://www.wolves.co.uk/",
+      "manager": "Steve Davis",
+      "city": "Waterloo Road, Wolverhampton, England",
+      "founded": "1877; 145 years ago, as St. Luke's F.C.",
+      "stadium": "Molineux Stadium",
+      "hungry": true,
+      "league": "Premier League",
+      "titles": [
+        {
+          "premier": "3"
         }
       ]
     },
@@ -268,226 +428,7 @@
         "shotname": "Arsenal"
       },
       "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
+      "link": "",
       "manager": "Mikel Arteta",
       "city": "London, England",
       "founded": "October 1886; 136 years ago as Dial Square",
