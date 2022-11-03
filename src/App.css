@@ -52,7 +52,6 @@ img {
   display: grid;
 }
 
-
 .card-title {
   padding: 1rem;
 }
@@ -90,4 +89,8 @@ img {
 
 footer {
   margin-top: 2rem;
+}
+
+.dropdown {
+  padding-left: 1rem;
 }
