@@ -7,13 +7,13 @@ const Colors = (props) => {
       colorVariable = 'red'
       break
     case 'aston villa':
-      colorVariable = 'lightblue'
+      colorVariable = 'LightSkyBlue'
       break
     case 'bournemouth':
-      colorVariable = 'red'
+      colorVariable = 'firebrick'
       break
     case 'brentford':
-      colorVariable = 'lightred'
+      colorVariable = 'red'
       break
     case 'brighton':
       colorVariable = 'blue'
@@ -27,6 +27,9 @@ const Colors = (props) => {
     case 'everton':
       colorVariable = 'blue'
       break
+    case 'fulham':
+      colorVariable = 'black'
+      break
     case 'leeds':
       colorVariable = 'yellow'
       break
@@ -34,34 +37,34 @@ const Colors = (props) => {
       colorVariable = 'lightblue'
       break
     case 'liverpool':
-      colorVariable = 'lightred'
+      colorVariable = 'darkred'
       break
     case 'manchester city':
       colorVariable = 'lightblue'
       break
     case 'manchester united':
-      colorVariable = ''
+      colorVariable = 'orangered'
       break
     case 'newcastle':
       colorVariable = 'black'
       break
     case 'nottingham':
-      colorVariable = 'lightred'
+      colorVariable = 'red'
       break
-    case 'southamer':
-      colorVariable = ''
+    case 'southampton':
+      colorVariable = 'red'
       break
     case 'spurs':
-      colorVariable = 'CadetBlue'
+      colorVariable = 'midnightblue'
       break
     case 'west ham':
-      colorVariable = 'claret'
+      colorVariable = 'maroon'
       break
     case 'wolves':
-      colorVariable = 'yellow'
+      colorVariable = 'darkorange'
       break
     default:
-      colorVariable = 'white'
+      colorVariable = 'red'
   }
 
   return (
