@@ -8,7 +8,7 @@
         "shotname": "Arsenal"
       },
       "overview": "Arsenal Football Club, commonly referred to as Arsenal, is a professional football club based in Islington, London, England. Arsenal plays in the Premier League, the top flight of English football.",
-      "link": "",
+      "link": "https://www.arsenal.com/",
       "manager": "Mikel Arteta",
       "city": "London, England",
       "founded": "October 1886; 136 years ago as Dial Square",
@@ -36,7 +36,7 @@
         "shotname": "Aston Villa"
       },
       "overview": "Aston Villa Football Club is a professional football club based in Aston, Birmingham, England. The club competes in the Premier League, the top tier of the English football league system. Founded in 1874, they have played at their home ground, Villa Park, since 1897",
-      "link": "",
+      "link": "https://www.avfc.co.uk/",
       "manager": "Unai Emery",
       "city": "Birmingham, England",
       "founded": "1874; 148 years ago",
@@ -63,7 +63,7 @@
         "shotname": "AFC Bournemouth"
       },
       "overview": "AFC Bournemouth is a professional association football club based in Kings Park, Boscombe, a suburb of Bournemouth, Dorset, England. The club competes in the Premier League, the highest division of English club football. Formed in 1899 as Boscombe, the club adopted their current name in",
-      "link": "",
+      "link": "https://www.afcb.co.uk/",
       "manager": "Gary O'Neil",
       "city": "London, England",
       "founded": "1899; 123 years ago (as Boscombe)",
@@ -90,7 +90,7 @@
         "shotname": "Brentford"
       },
       "overview": "Brentford Football Club is a professional football club based in Brentford, West London, England. They compete in the Premier League, the highest tier of English football, having gained promotion via the playoffs at the end of the 2020–21 Championship season.",
-      "link": "",
+      "link": "https://www.brentfordfc.com/en",
       "manager": "Thomas Frank",
       "city": "London, England",
       "founded": "10 October 1889; 133 years ago",
@@ -117,7 +117,7 @@
         "shotname": "Brighton"
       },
       "overview": "Brighton & Hove Albion Football Club commonly referred to simply as Brighton, is an English professional football club based in the city of Brighton and Hove. They compete in the Premier League, the top tier of the English football league system. ",
-      "link": "",
+      "link": "https://www.brightonandhovealbion.com/",
       "manager": "Roberto De Zerbi",
       "city": "Falmer, Brighton, East Sussex, England",
       "founded": "24 June 1901; 121 years ago",
@@ -144,7 +144,7 @@
         "shotname": "Chelsea"
       },
       "overview": "Chelsea Football Club is an English professional football club based in Fulham, West London. Founded in 1905, they play their home games at Stamford Bridge.[6] The club competes in the Premier League, the top division of English football.",
-      "link": "",
+      "link": "https://www.chelseafc.com/en",
       "manager": "Graham Potter",
       "city": "West London, England",
       "founded": "10 March 1905; 117 years ago[",
@@ -171,7 +171,7 @@
         "shotname": "Crystal Palace"
       },
       "overview": "Crystal Palace Football Club is a professional football club based in Selhurst in the Borough of Croydon, South London, England, who compete in the Premier League, the highest level of English football.",
-      "link": "",
+      "link": "https://www.cpfc.co.uk/",
       "manager": "Patrick Vieira",
       "city": "Selhurst, London, England",
       "founded": "10 September 1905; 117 years ago[",
@@ -198,7 +198,7 @@
         "shotname": "Everton"
       },
       "overview": "Everton Football Club, is an English professional association football club based in Liverpool that competes in the Premier League, the top tier of English football. ",
-      "link": "",
+      "link": "https://www.evertonfc.com/",
       "manager": "Frank Lampard",
       "city": "liverpool, England",
       "founded": "October 1886; 136 years ago as Dial Square",
@@ -225,7 +225,7 @@
         "shotname": "Fulham"
       },
       "overview": "Fulham Football Club is an English professional football club based in Fulham, London, which compete in the Premier League. They have played home games at Craven Cottage since 1896, other than a two-year period spent at Loftus Road whilst Craven Cottage underwent redevelopments that were completed in 2004.",
-      "link": "",
+      "link": "https://www.fulhamfc.com/",
       "manager": "Marco Silva",
       "city": "West London, England",
       "founded": "1879; 143 years ago (as St Andrews Cricket & Football Club)",
@@ -252,7 +252,7 @@
         "shotname": "Leeds"
       },
       "overview": "Leeds United Football Club is a professional football club based in Leeds, West Yorkshire in England. The club competes in the Premier League, the highest level of England's football league system, and plays its home matches at Elland Road Stadium.",
-      "link": "",
+      "link": "https://www.leedsunited.com/",
       "manager": "Jesse Marsch",
       "city": "Elland Road, Beeston, Leeds, England",
       "founded": "17 October 1919; 103 years ago",
@@ -279,7 +279,7 @@
         "shotname": "Leicester City"
       },
       "overview": "Leicester City Football Club is an English professional football club based in Leicester in the East Midlands of England. The club competes in the Premier League, the highest level of England's football league system, and plays its home matches at King Power Stadium.",
-      "link": "",
+      "link": "https://www.lcfc.com/",
       "manager": "Brendan Rodgers",
       "city": "Leicester, England",
       "founded": "1884; 138 years ago (as Leicester Fosse F.C.)",
@@ -306,7 +306,7 @@
         "shotname": "Liverpool"
       },
       "overview": "Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Founded in 1892, the club joined the Football League the following year and has played its home games at Anfield since its formation.",
-      "link": "",
+      "link": "https://www.liverpoolfc.com/",
       "manager": "Jürgen Klopp",
       "city": "London, England",
       "founded": "3 June 1892; 130 years ago",
