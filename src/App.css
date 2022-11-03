@@ -74,3 +74,12 @@ img {
   background-color: red;
   color: white;
 }
+
+
+.social {
+  /* margin: 0px 0px 0px 200px; */
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30rem;
+  padding-right: 30rem;
+}
