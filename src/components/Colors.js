@@ -68,9 +68,6 @@ const Colors = (props) => {
   }
 
   return (
-    // <div className="colors">
-    //   <p style={{ backgroundColor: colorVariable }}>{props.names}</p>
-    // </div>
     <a href={props.link} target="_blank" rel="noreferrer">
       <button style={{ background: colorVariable }} className="card-btn">
         Website

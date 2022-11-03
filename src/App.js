@@ -45,7 +45,13 @@ const App = () => {
 
   return (
     <div>
-      <header className="App-header">Premier league</header>
+      <header className="App-header">
+        <img
+          src="https://yt3.ggpht.com/_ReZkZsEOwJYajNodeVsGUo6ZtzVrd_1N3kceVAYnaYvoBkG1Emjf2GJn-gSbL0Rs3gGoCUOnjM=s900-c-k-c0x00ffffff-no-rj"
+          className="logo"
+        />
+        Premier league
+      </header>
       <Slider {...settings} className="App">
         {data.teams.map((team, idx) => (
           <Teams

@@ -24,7 +24,7 @@ img {
 
 /* Flexbox */
 .App-header {
-  background-color: rgb(33, 32, 32);
+  background-color: rgb(198, 36, 36);;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
@@ -77,7 +77,6 @@ img {
 
 
 .social {
-  /* margin: 0px 0px 0px 200px; */
   display: flex;
   justify-content: space-between;
   padding-left: 30rem;
