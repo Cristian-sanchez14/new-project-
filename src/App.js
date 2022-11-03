@@ -5,6 +5,7 @@ import Slider from 'react-slick'
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import 'semantic-ui-css/semantic.min.css'
+import Social from './components/Social'
 
 const App = () => {
   const settings = {
@@ -43,9 +44,9 @@ const App = () => {
   }
 
   return (
-    <div className="App">
+    <div>
       <header className="App-header">Premier league</header>
-      <Slider {...settings}>
+      <Slider {...settings} className="App">
         {data.teams.map((team, idx) => (
           <Teams
             key={idx}
@@ -58,6 +59,12 @@ const App = () => {
           />
         ))}
       </Slider>
+      <br></br>
+      <br></br>
+      <br></br>
+      <div>
+        <Social />
+      </div>
     </div>
   )
 }
