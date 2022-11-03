@@ -19,7 +19,7 @@ img {
 }
 
 .App {
-  background-color: rgb(33, 32, 32);
+  background-color: rgb(198, 36, 36);
 }
 
 /* Flexbox */
@@ -31,16 +31,15 @@ img {
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(232, 232, 232); 
-  margin-bottom: 50px
+  color: rgb(232, 232, 232);
 }
 
 .card {
     width: 30vw;
     padding: 10px;
-    margin: 10px;
+    margin: 5rem 0rem 0px 2rem;
     overflow: hidden;
-    box-shadow: 0 2px 20px black;
+    box-shadow: 0 1rem 5rem black;
     border-radius: 10px; 
     cursor: pointer;
     transition: transform 200ms ease-in;
