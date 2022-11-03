@@ -68,11 +68,9 @@ const Colors = (props) => {
   }
 
   return (
-    <a href={props.link} target="_blank" rel="noreferrer">
-      <button style={{ background: colorVariable }} className="card-btn">
-        Website
-      </button>
-    </a>
+    <button style={{ background: colorVariable }} className="card-btn">
+      Website
+    </button>
   )
 }
 

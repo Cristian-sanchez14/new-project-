@@ -11,10 +11,9 @@ const Teams = (props) => {
       </div>
       <div className="card-bottom">
         <p className="card-details">{props.overview}</p>
-        {/* <a href={props.link} target="_blank" rel="noreferrer">
-          <button className="card-btn">Website</button>
-        </a> */}
-        <Colors color={props.colors[0].name} />
+        <a href={props.link} target="_blank" rel="noreferrer">
+          <Colors color={props.colors[0].name} />
+        </a>
         <Staricon />
       </div>
     </div>
