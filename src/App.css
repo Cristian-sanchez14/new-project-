@@ -18,9 +18,13 @@ img {
   object-fit:contain;
 }
 
+.App {
+  background-color: rgb(33, 32, 32);
+}
 
+/* Flexbox */
 .App-header {
-  background-color: black;
+  background-color: rgb(33, 32, 32);
   min-height: 10vh;
   display: flex;
   flex-direction: column;

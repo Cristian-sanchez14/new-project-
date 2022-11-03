@@ -14,7 +14,14 @@
       "founded": "October 1886; 136 years ago as Dial Square",
       "stadium": "Emirates Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 1,
+          "name": "arsenal"
+        }
+      ],
       "league": "Premier League",
+
       "titles": [
         {
           "premier": "13"
@@ -35,6 +42,12 @@
       "founded": "1874; 148 years ago",
       "stadium": "Villa Park",
       "hungry": true,
+      "colors": [
+        {
+          "id": 2,
+          "name": "aston villa"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -56,6 +69,12 @@
       "founded": "1899; 123 years ago (as Boscombe)",
       "stadium": "Dean Court",
       "hungry": true,
+      "colors": [
+        {
+          "id": 3,
+          "name": "bournemouth"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -77,6 +96,12 @@
       "founded": "10 October 1889; 133 years ago",
       "stadium": "Gtech Community Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 4,
+          "name": "brentford"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -98,6 +123,12 @@
       "founded": "24 June 1901; 121 years ago",
       "stadium": "Falmer Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 5,
+          "name": "brighton"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -119,6 +150,12 @@
       "founded": "10 March 1905; 117 years ago[",
       "stadium": "Stamford Bridge",
       "hungry": true,
+      "colors": [
+        {
+          "id": 6,
+          "name": "chelsea"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -131,7 +168,7 @@
         "club": "Crystal Palace Football Club",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/160px-Crystal_Palace_FC_logo_%282022%29.svg.png",
         "nickname": "The Eagles",
-        "shotname": "Arsenal"
+        "shotname": "Crystal Palace"
       },
       "overview": "Crystal Palace Football Club is a professional football club based in Selhurst in the Borough of Croydon, South London, England, who compete in the Premier League, the highest level of English football.",
       "link": "",
@@ -140,6 +177,12 @@
       "founded": "10 September 1905; 117 years ago[",
       "stadium": "Selhurst Park",
       "hungry": true,
+      "colors": [
+        {
+          "id": 7,
+          "name": "crystal"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -161,6 +204,12 @@
       "founded": "October 1886; 136 years ago as Dial Square",
       "stadium": "Goodison Park",
       "hungry": true,
+      "colors": [
+        {
+          "id": 8,
+          "name": "everton"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -182,6 +231,12 @@
       "founded": "1879; 143 years ago (as St Andrews Cricket & Football Club)",
       "stadium": "Craven Cottage",
       "hungry": true,
+      "colors": [
+        {
+          "id": 9,
+          "name": "fulham"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -203,6 +258,12 @@
       "founded": "17 October 1919; 103 years ago",
       "stadium": "Elland Road",
       "hungry": true,
+      "colors": [
+        {
+          "id": 10,
+          "name": "leeds"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -224,6 +285,12 @@
       "founded": "1884; 138 years ago (as Leicester Fosse F.C.)",
       "stadium": "King Power Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 11,
+          "name": "leicester"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -245,6 +312,12 @@
       "founded": "3 June 1892; 130 years ago",
       "stadium": "Anfield",
       "hungry": true,
+      "colors": [
+        {
+          "id": 12,
+          "name": "liverpool"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -266,6 +339,12 @@
       "founded": "1880; 142 years ago as St. Mark's (West Gorton)",
       "stadium": "City of Manchester Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 13,
+          "name": "manchester city"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -287,6 +366,12 @@
       "founded": "1878; 144 years ago, as Newton Heath",
       "stadium": "Old Trafford",
       "hungry": true,
+      "colors": [
+        {
+          "id": 14,
+          "name": "manchester united"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -308,6 +393,12 @@
       "founded": "9 December 1892; 129 years ago",
       "stadium": "St James' Park",
       "hungry": true,
+      "colors": [
+        {
+          "id": 15,
+          "name": "newcastle"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -329,6 +420,12 @@
       "founded": "1865 (157 years ago)",
       "stadium": "City Ground",
       "hungry": true,
+      "colors": [
+        {
+          "id": 16,
+          "name": "nottingham"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -350,6 +447,12 @@
       "founded": "21 November 1885; 136 years ago",
       "stadium": "St Mary's Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 17,
+          "name": "southampton"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -371,6 +474,12 @@
       "founded": "5 September 1882; 140 years ago, as Hotspur F.C.",
       "stadium": "Tottenham Hotspur Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 18,
+          "name": "spurs"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -392,6 +501,12 @@
       "founded": "5 July 1900; 122 years ago, as West Ham United",
       "stadium": "London Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 19,
+          "name": "west ham"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
@@ -413,31 +528,16 @@
       "founded": "1877; 145 years ago, as St. Luke's F.C.",
       "stadium": "Molineux Stadium",
       "hungry": true,
+      "colors": [
+        {
+          "id": 20,
+          "name": "wolves"
+        }
+      ],
       "league": "Premier League",
       "titles": [
         {
           "premier": "3"
-        }
-      ]
-    },
-    {
-      "name": {
-        "club": "Arsenal Football Club",
-        "logo": "",
-        "nickname": "The Gunners",
-        "shotname": "Arsenal"
-      },
-      "overview": "",
-      "link": "",
-      "manager": "Mikel Arteta",
-      "city": "London, England",
-      "founded": "October 1886; 136 years ago as Dial Square",
-      "stadium": "Emirates Stadium",
-      "hungry": true,
-      "league": "Premier League",
-      "titles": [
-        {
-          "premier": "13"
         }
       ]
     }

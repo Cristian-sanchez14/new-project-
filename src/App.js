@@ -54,6 +54,7 @@ const App = () => {
             logo={team.name.logo}
             overview={team.overview}
             link={team.link}
+            colors={team.colors}
           />
         ))}
       </Slider>
