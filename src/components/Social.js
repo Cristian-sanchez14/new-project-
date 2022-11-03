@@ -18,30 +18,33 @@ const ButtonExampleSocial = (props) => (
       alt="link"
       target="_blank"
       rel="noreferrer"
-    ></a>
-    <Button color="linkedin">
-      <Icon name="linkedin" /> LinkedIn
-    </Button>
+    >
+      <Button color="linkedin">
+        <Icon name="linkedin" /> LinkedIn
+      </Button>
+    </a>
     <a
       href="https://www.instagram.com/cristian_snchez7/"
       alt="link"
       target="_blank"
       rel="noreferrer"
-    ></a>
-    <Button color="instagram">
-      <Icon name="instagram" /> Instagram
-    </Button>
+    >
+      <Button color="instagram">
+        <Icon name="instagram" /> Instagram
+      </Button>
+    </a>
     <a
       href="https://www.youtube.com/channel/UCdXKvZmgrU3sWxtYEOKNBVg"
       alt="link"
       target="_blank"
       rel="noreferrer"
-    ></a>
-    <Button color="youtube">
-      <Icon name="youtube" /> YouTube
-    </Button>
+    >
+      <Button color="youtube">
+        <Icon name="youtube" /> YouTube
+      </Button>
+    </a>
     <a
-      href="https://www.youtube.com/channel/UCdXKvZmgrU3sWxtYEOKNBVg"
+      href="https://github.com/Cristian-sanchez14"
       alt="link"
       target="_blank"
       rel="noreferrer"
