@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button, Icon } from 'semantic-ui-react'
 
-const ButtonExampleSocial = () => (
+const ButtonExampleSocial = (props) => (
   <div className="social">
     <Button color="twitter">
       <Icon name="twitter" /> Twitter

@@ -78,8 +78,7 @@ img {
   transform: scale(1.05)
 }
 .card-btn:hover {
-  background-color: red;
-  color: white;
+  transform: scale(1.10);
 }
 
 
@@ -87,4 +86,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+footer {
+  margin-top: 2rem;
 }

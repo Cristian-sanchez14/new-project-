@@ -44,9 +44,9 @@ const App = () => {
   }
 
   return (
-    <div>
+    <div className="App">
       <header className="App-header">Premier league</header>
-      <Slider {...settings} className="App">
+      <Slider {...settings}>
         {data.teams.map((team, idx) => (
           <Teams
             key={idx}
@@ -59,12 +59,9 @@ const App = () => {
           />
         ))}
       </Slider>
-
-      <br></br>
-      <br></br>
-      <div>
+      <footer>
         <Social />
-      </div>
+      </footer>
     </div>
   )
 }
