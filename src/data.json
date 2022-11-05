@@ -545,24 +545,16 @@
 
   "fantasyteam": [
     {
-      "name": {
-        "club": "Lionel Andrés Messi",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg",
-        "nickname": "Barça",
-        "shotname": "Barcelona"
+      "info": {
+        "name": "Lionel Messi",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg",
+        "team": "Paris Saint-Germain",
+        "shotname": "psg"
       },
-      "overview": "Futbol Club Barcelona (Catalan pronunciation: [fubˈbɔl ˈklub bəɾsəˈlonə] (listen)), commonly referred to as Barcelona and colloquially known as Barça ([ˈbaɾsə]), is a professional football club based in Barcelona, Catalonia, Spain, that competes in La Liga, the top flight of Spanish football.",
-      "link": "https://www.fcbarcelona.com/en/",
-      "manager": "Xavi",
-      "city": "Barcalona, Spain",
-      "founded": "29 November 1899; 122 years ago",
-      "stadium": "Camp Nou",
-      "colors": [
-        {
-          "id": 5,
-          "name": "brighton"
-        }
-      ]
+      "overview": "Lionel Andrés Messi[note 1] (Spanish pronunciation: [ljoˈnel anˈdɾes ˈmesi] (listen); born 24 June 1987), is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. Widely regarded as one of the greatest players of all time",
+      "link": "https://messi.com/en/",
+      "birthdate": "24 June 1987 (age 35)",
+      "city": "Rosario, Santa Fe, Argentina"
     }
   ]
 }

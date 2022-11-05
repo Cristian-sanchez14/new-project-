@@ -67,9 +67,9 @@ const App = () => {
         {data.fantasyteam.map((fantasy, idx) => (
           <FantasyTeam
             key={idx}
-            name={fantasy.name.shotname}
+            name={fantasy.info.name}
             manager={fantasy.manager}
-            logo={fantasy.name.logo}
+            logo={fantasy.info.picture}
             overview={fantasy.overview}
             link={fantasy.link}
             colors={fantasy.colors}

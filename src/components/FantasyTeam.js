@@ -1,6 +1,4 @@
 import React from 'react'
-import Staricon from './Staricon'
-import Colors from './Colors'
 
 const Fantasy = (props) => {
   return (
@@ -10,11 +8,12 @@ const Fantasy = (props) => {
         <h2 className="card-title">{props.name}</h2>
       </div>
       <div className="card-bottom">
-        <p className="card-details">{props.overview}</p>
-        <a href={props.link} target="_blank" rel="noreferrer">
-          <Colors color={props.colors[0].name} />
-        </a>
-        <Staricon />
+        <button>
+          <details>
+            <summary className="about-btn">About</summary>
+            <p className="card-details">{props.overview}</p>
+          </details>
+        </button>
       </div>
     </div>
   )
