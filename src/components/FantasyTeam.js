@@ -1,7 +1,7 @@
 import React from 'react'
 import Staricon from './Staricon'
 
-const Fanacty = (props) => {
+const Fantasy = (props) => {
   return (
     <div className="card">
       <div className="card-top">
@@ -16,4 +16,4 @@ const Fanacty = (props) => {
   )
 }
 
-export default Fanacty
+export default Fantasy

@@ -6,7 +6,7 @@ import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import 'semantic-ui-css/semantic.min.css'
 import Social from './components/Social'
-import FanactyTeam from './components/FanactyTeam'
+import FantasyTeam from './components/FantasyTeam'
 
 const App = () => {
   const settings = {
@@ -61,15 +61,15 @@ const App = () => {
         ))}
       </Slider>
       <Slider>
-        {data.fanactyteam.map((fanacty, idx) => (
-          <FanactyTeam
+        {data.fantasyteam.map((fantasy, idx) => (
+          <FantasyTeam
             key={idx}
-            name={fanacty.name.shotname}
-            manager={fanacty.manager}
-            logo={fanacty.name.logo}
-            overview={fanacty.overview}
-            link={fanacty.link}
-            colors={fanacty.colors}
+            name={fantasy.name.shotname}
+            manager={fantasy.manager}
+            logo={fantasy.name.logo}
+            overview={fantasy.overview}
+            link={fantasy.link}
+            colors={fantasy.colors}
           />
         ))}
       </Slider>
