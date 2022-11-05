@@ -541,5 +541,22 @@
         }
       ]
     }
+  ],
+
+  "fanactyteam": [
+    {
+      "name": {
+        "club": "West Ham United Football Club",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1024px-West_Ham_United_FC_logo.svg.png",
+        "nickname": "The Irons",
+        "shotname": "West Ham"
+      },
+      "overview": "West Ham United Football Club is an English professional football club that plays its home matches in Stratford, East London. The club competes in the Premier League, the top tier of English football. The club plays at the London Stadium, having moved from their former home, the Boleyn Ground, in 2016.",
+      "link": "https://www.whufc.com/",
+      "manager": "David Moyes",
+      "city": "Queen Elizabeth Olympic Park, Stratford, England",
+      "founded": "5 July 1900; 122 years ago, as West Ham United",
+      "stadium": "London Stadium"
+    }
   ]
 }
