@@ -60,6 +60,9 @@ const App = () => {
           />
         ))}
       </Slider>
+      <br></br>
+      <br></br>
+      <header className="App-header">Favorite Players</header>
       <Slider>
         {data.fantasyteam.map((fantasy, idx) => (
           <FantasyTeam
@@ -73,6 +76,9 @@ const App = () => {
           />
         ))}
       </Slider>
+      <br></br>
+      <br></br>
+      <br></br>
       <footer>
         <Social />
       </footer>
