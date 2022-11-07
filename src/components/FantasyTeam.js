@@ -8,9 +8,9 @@ const Fantasy = (props) => {
         <h2 className="card-title">{props.name}</h2>
       </div>
       <div className="card-bottom">
-        <button>
+        <button className="about-btn">
           <details>
-            <summary className="about-btn">About</summary>
+            <summary>About</summary>
             <p className="card-details">{props.overview}</p>
           </details>
         </button>

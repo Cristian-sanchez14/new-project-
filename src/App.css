@@ -94,3 +94,11 @@ footer {
 .dropdown {
   padding-left: 1rem;
 }
+
+.about-btn {
+  background-color: black;
+  color: white;
+  padding: .5rem 1rem .5rem 1rem;
+  border-radius: 20px;
+  border: none;
+}

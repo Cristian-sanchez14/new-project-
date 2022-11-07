@@ -63,7 +63,7 @@ const App = () => {
       <br></br>
       <br></br>
       <header className="App-header">Favorite Players</header>
-      <Slider>
+      <Slider {...settings}>
         {data.fantasyteam.map((fantasy, idx) => (
           <FantasyTeam
             key={idx}
